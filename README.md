@@ -43,8 +43,6 @@ myproject/
 │   ├── celery.py        # Celery setup
 ├── bot.py               # Telegram bot script
 ├── manage.py            # Django management script
-├── .env                 # Environment config (not committed)
-├── requirements.txt     # Dependencies
 ├── README.md
 ```
 
